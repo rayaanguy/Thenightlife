@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align:center;
+}
+#about{
+    background-color: gray;
+    color: black;
+}
+#People{
+    background-color: #0F3040;
+    
+    
+}
+#Work{
+    background-color: #37353e;
+
+}
