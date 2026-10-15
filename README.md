@@ -1,4 +1,4 @@
-# Thenightlife
+# Thescarednightlife
 ## Introduction
 It is a website about nightlife of a person who get scared easily and how to overcome advices
 ## How to visit our article-
