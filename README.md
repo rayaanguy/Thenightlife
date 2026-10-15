@@ -1,6 +1,6 @@
 # Thenightlife
 ## Introduction
-This is a website about the night life about  what happens and what they do
+It is a website about nightlife of a person who get scared easily and how to overcome advices
 ## How to visit our article-
 by clicking on the link you can see our article (https://rayaanguy.github.io/Thenightlife/)
 ## Tools used -
