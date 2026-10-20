@@ -1,11 +1,12 @@
-# Thescarednightlife
+
 ## Introduction
-It is a website about nightlife of a person who get scared easily and how to overcome advices
+TheMidnightzone is about the creature inside the ocean and about which creature lives 
 ## How to visit our article-
-by clicking on the link you can see our article (https://rayaanguy.github.io/Thescarednightlife/)
+by clicking on the link you can see our article (https://rayaanguy.github.io/Thenightlife/)
 ## Tools used -
 Html and  css is used and for hosting (github pages) is used
-<img width="1280" height="800" alt="Screenshot_20261015-183129" src="https://github.com/user-attachments/assets/13eac9d8-b2a5-4133-9265-72a061eb2efc" />
+<img width="1280" height="800" alt="Screenshot_20261020-225926" src="https://github.com/user-attachments/assets/81bf44ba-e5f1-4b27-99f1-f843bafa10dd" />
+
 
 
 
