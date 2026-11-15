@@ -1,20 +1,14 @@
 body{
     background-color: black;
-    color: white;
 }
 h1{
-    text-align:center;
+    color: white;
 }
-#about{
-    background-color: gray;
-    color: black;
+h2{
+    color: whitesmoke ;
 }
-#People{
-    background-color: #0F3040;
-    
-    
-}
-#Work{
-    background-color: #37353e;
-
+#a{display:flex;
+    justify-content: space-between;}
+p{
+    color: white;
 }

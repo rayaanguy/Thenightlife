@@ -1,6 +1,6 @@
 
 ## Introduction
-TheMidnightzone is about the creature inside the ocean and about which creature lives 
+convincing my siblings to join a night gaming session 
 ## How to visit our article-
 by clicking on the link you can see our article (https://rayaanguy.github.io/Thenightlife/)
 ## Tools used -
