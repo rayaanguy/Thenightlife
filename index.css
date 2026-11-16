@@ -3,12 +3,34 @@ body{
 }
 h1{
     color: white;
+    font-family: lacquer;
 }
 h2{
     color: whitesmoke ;
+    font-family: lacquer;
+
 }
 #a{display:flex;
     justify-content: space-between;}
 p{
     color: white;
+    font-family: lacquer;
+
+}
+img{
+    float : right ;
+    length : 25% ;
+    width : 25% ;
+    border-radius: 20%;
+
+}
+a{
+    background-color: blanchedalmond;
+    color: black ;
+}
+button{
+    background-color: blanchedalmond;
+    color: black ;
+    length: 100px;
+    width: 300px;
 }
