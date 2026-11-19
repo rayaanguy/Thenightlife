@@ -1,6 +1,6 @@
 # My suprise plan for my siblings 
 ## Introduction
-convincing my siblings to join a night gaming session and have fun it is a surprise and want to see their reaction and plan a very awesome weekend to make our memories coool and awesome 😎 🎮🎊
+convincing my siblings to join a night gaming session and have fun it is a surprise and want to see their reaction and plan a very awesome weekend to make our memories coool and awesome 
 ### How to visit our SUPRISE -
 you can visit our website by clicking on the link to see my suprise plan that I built for my Sibling (https://rayaanguy.github.io/Thenightlife/)
 ### Why I have created -
